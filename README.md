@@ -14,6 +14,20 @@ El repositorio está organizado para reflejar exactamente la lógica planteada e
 • metodología: normalización, vinculación, limpieza, clasificación multietiqueta y revisión manual parcial
 • resultado esperado: ficha por equipamiento, dimensiones activadas y evolución temporal
 
+## Uso inicial de PITEC
+
+En esta fase inicial, PITEC actúa como base estructural del prototipo. Los casos piloto se han localizado y contrastado en la plataforma antes de construir la muestra de noticias.
+
+Casos verificados en PITEC:
+- INSTITUT VALENCIÀ D'ART MODERN (IVAM)
+- Centre del Carme de Cultura Contemporània (CCCC)
+
+Esta consulta inicial permite:
+- seleccionar y normalizar equipamientos piloto
+- utilizar sus registros como referencia de identificación
+- detectar posibles inconsistencias en los datos
+- combinar la base estructural de PITEC con validación externa mediante noticias y revisión manual
+
 ## Qué incluye esta primera versión
 
 Esta es una base de trabajo pensada para mostrar trazabilidad metodológica, viabilidad técnica inicial y capacidad de desarrollo. Incluye:
