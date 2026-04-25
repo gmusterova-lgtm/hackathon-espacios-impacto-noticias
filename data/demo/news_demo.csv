@@ -1,0 +1,5 @@
+news_id,date,equipment,source,title,text,is_demo
+1,2026-04-14,IVAM,nota_institucional,"App de visión computacional aplicada a un museo","El equipamiento impulsa una experiencia accesible y personalizada para visitantes, con una iniciativa innovadora vinculada a mediación y accesibilidad.",true
+2,2026-04-16,IVAM,medio_local,"Nueva programación y actividad pública en el IVAM","La noticia destaca programación continuada, reconocimiento institucional y presencia cultural sostenida en medios.",true
+3,2026-01-21,Centre del Carme,nota_institucional,"Videocreación sobre relaciones humanas y empatía","La programación abierta conecta con públicos contemporáneos y refuerza participación cultural y comunidad.",true
+4,2026-02-02,Centre del Carme,agenda_cultural,"Actividades gratuitas y mediación cultural","Se describen talleres, participación vecinal, acceso cultural y relación con el entorno urbano.",true

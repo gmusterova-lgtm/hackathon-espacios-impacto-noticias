@@ -1,0 +1,36 @@
+{
+  "Centre del Carme": {
+    "equipment": "Centre del Carme",
+    "news_count": 2,
+    "sources": [
+      "agenda_cultural",
+      "nota_institucional"
+    ],
+    "impact_dimensions": {
+      "cohesion_social": 2,
+      "transformacion_territorial": 1,
+      "derechos_culturales": 1
+    },
+    "timeline": [
+      "2026-01-21",
+      "2026-02-02"
+    ]
+  },
+  "IVAM": {
+    "equipment": "IVAM",
+    "news_count": 2,
+    "sources": [
+      "medio_local",
+      "nota_institucional"
+    ],
+    "impact_dimensions": {
+      "derechos_culturales": 1,
+      "notoriedad_publica": 1,
+      "influencia_publica": 1
+    },
+    "timeline": [
+      "2026-04-14",
+      "2026-04-16"
+    ]
+  }
+}
