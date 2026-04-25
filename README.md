@@ -109,7 +109,7 @@ Esto genera un archivo de salida en `outputs/demo_profiles.json` con una ficha b
 
 ## Qué mostrar en el vídeo
 
-Para el vídeo de 5 minutos, este repositorio permite enseñar algo muy concreto:
+Para el vídeo de presentación de 5 minutos, este repositorio permite enseñar:
 
 • que la propuesta ya tiene traducción operativa
 • que las dimensiones del PDF ya están convertidas en reglas y estructura de datos
